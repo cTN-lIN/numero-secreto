@@ -12,3 +12,10 @@
 
 # Time
 
+<markdown-accessiblity-table data-catalyst=""><table>
+<thead>
+<tr>
+<th align="center"><a href="https://github.com/cTN-lIN"><img src="https://avatars.githubusercontent.com/u/71335909?v=4" width="115" style="max-width: 100%;"><br><sub>Clayton Lima</sub></a></th>
+</tr>
+</thead>
+</table></markdown-accessiblity-table>
